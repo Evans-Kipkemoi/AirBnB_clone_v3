@@ -156,7 +156,7 @@ No known bugs at this time.
 ## Authors
 Evans Kipkemoi - [Github](https://github.com/Evans-Kipkemoi)
  
-Annastacia - [Github](https://github.com/
+Annastansia Ochuku - [Github](https://github.com/
 
 
 ## License
